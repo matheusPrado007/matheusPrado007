@@ -3,7 +3,7 @@
 # Olá, seja bem-vindo(a)!
 <img src = "007.gif" width = "250px" align = "right">
 
- Sou o Matheus Prado, resido em Estiva, uma cidadezinha no sul de Minas Gerais. Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
+ Sou o Matheus Prado, Desenvolvolvedor Full Stack. Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
 <br/>
 <br/>
 
