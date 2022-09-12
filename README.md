@@ -7,7 +7,7 @@
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPrado&layout=compact)](https://github.com/matheusPrado007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPrado007&layout=compact)](https://github.com/matheusPrado007/github-readme-stats)
 ## Minhas Hard Skills
 
 <div style="display: inline_block"><br/>
