@@ -1,10 +1,12 @@
-<img src = "giphy.gif" width = "375px" align = "right">
+
 
 # Olá, seja bem-vindo(a)!
+<img src = "giphy.gif" width = "375px" align = "right">
 
-## Sou o Matheus Prado, resido em Estiva, uma cidadezinha no sul de Minas Gerais. Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
+ Sou o Matheus Prado, resido em Estiva, uma cidadezinha no sul de Minas Gerais. Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
 <br/>
 <br/>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPrado007&layout=compact)](https://github.com/matheusPrado007/github-readme-stats)
