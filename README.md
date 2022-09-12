@@ -1,11 +1,9 @@
-<img src = "giphy.gif" align = "right">
+<img src = "giphy.gif" width = "425px" align = "right">
 
 # Olá, seja bem-vindo(a)!
 
 ## Sou o Matheus Prado, resido em Estiva, uma cidadezinha no sul de Minas Gerais. Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
 <br/>
-<img src="https://www.digitalhouse.com/br/blog/content/images/2022/08/Come-ar-com-Java.gif>
-
 <br/>
 
 
@@ -22,4 +20,10 @@
 <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
 
 <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"> </div><br/>
-
+<br/>
+## Contato
+<div>
+<a href = "www.linkedin.com/in/matheus--prado">
+<img alt = "linkedin" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div>
