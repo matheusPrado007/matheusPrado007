@@ -3,7 +3,8 @@
 # Olá, seja bem-vindo(a)!
 <img src = "007.gif" width = "250px" align = "right">
 
- Sou o Matheus Prado, Desenvolvolvedor Full Stack. Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
+ Sou o Matheus Prado, desenvolvolvedor Full Stack.<br/>
+ Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
 <br/>
 <br/>
 
