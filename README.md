@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "425px" align = "right">
+<img src = "giphy.gif" width = "375px" align = "right">
 
 # Olá, seja bem-vindo(a)!
 
