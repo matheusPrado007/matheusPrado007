@@ -1,3 +1,5 @@
+<img src = "giphy.gif" align = "right">
+
 # Olá, seja bem-vindo(a)!
 
 ## Sou o Matheus Prado, resido em Estiva, uma cidadezinha no sul de Minas Gerais. Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
