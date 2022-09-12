@@ -1,7 +1,7 @@
 
 
 # Olá, seja bem-vindo(a)!
-<img src = "007.gif" width = "270px" align = "right">
+<img src = "007.gif" width = "250px" align = "right">
 
  Sou o Matheus Prado, resido em Estiva, uma cidadezinha no sul de Minas Gerais. Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
 <br/>
