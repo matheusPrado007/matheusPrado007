@@ -1,8 +1,11 @@
 
 # Olá, seja bem-vindo(a)!
 
- Sou o Matheus Prado, desenvolvolvedor Full Stack.<br/>
- Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura! 
+ <p>
+ Sou o <strong>Matheus Prado</strong>, desenvolvolvedor Full Stack.<br/>
+ Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura!
+ </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPrado007&layout=compact)](https://github.com/matheusPrado007/github-readme-stats)
 
