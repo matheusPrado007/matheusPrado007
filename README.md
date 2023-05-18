@@ -2,7 +2,7 @@
 # Olá, seja bem-vindo(a)!
 
  <p>
- Sou o <strong>Matheus Prado</strong>, desenvolvolvedor Full Stack.<br/>
+ Sou o <strong>Matheus Prado</strong>, desenvolvolvedor Back-end.<br/>
  Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura!
  </p>
 
