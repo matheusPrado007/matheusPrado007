@@ -41,8 +41,11 @@
  <a href="mailto:matheuspradodeveloper@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
- <br>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matheusprado007.github.io//)
+ 
 </div>
+
 
 
 
