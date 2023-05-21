@@ -12,7 +12,10 @@
  - 🔭 Ciência faz parte de mim, meu sonho era ser um cientista e resolver problemas usando logica em conhecimentos aplicados,
  provavelmente por isso me apaixonei pelo mundo da tecnologia.
  - 😸 Tenho uma gata (lady gypsy) que parece ter saido do Studio Ghibli (estúdio de cinema de animação japonês), e dois cachorros, um com a personalidade do burro do shrek (Bruce) 🐶, e outro (Pit chichito) com com a personalidade mais autentica que já vi.
- - 🧑‍💻 Me tornei Full Stack, e escolhi o Back-end, por que? Não me entendam mal o Front-end tem uma parte do meu coração, mas o back-end me lembra o garoto que queria ser um cientista.
+ - 🧑‍💻 Me tornei Full Stack, e escolhi o Back-end. Por que? Não me entendam mal o Front-end tem uma parte do meu coração, mas o back-end me lembra o garoto que queria ser um cientista
+ - Atualmente estou focado em aprender mais a respeito de back-end. No início da minha trajetória em back, compreendi sobre o NodeJS e seu famoso framework, o Express. Na parte de arquitetura tenho noção dos princípios MSC e SOLID,
+  e sei que como desenvolvedor tenho que estar em um eterno aprimoramento. Esse desafio me estimula demais.
+ 
    
 
 
