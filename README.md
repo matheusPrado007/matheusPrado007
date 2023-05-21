@@ -1,10 +1,19 @@
 
-# Olá, seja bem-vindo(a)!
+# Bom dia, boa tarde e boa noite ![image](https://github.com/matheusPrado007/matheusPrado007/assets/108843111/447ffd08-715e-4518-b906-eecc97d0c05f)
 
  <p>
- Sou o <strong>Matheus Prado</strong>, desenvolvolvedor Back-end.<br/>
- Minhas paixões, além de codar são: cinema, música, fotografia, hiking e leitura!
+ Sou o <strong>Matheus Prado</strong>, Desenvolvolvedor Back-end.<br/>
  </p>
+ 
+ ## Algumas curiosidades sobre mim
+ - 🎥 Sou apaixonado por cinema e já assisti tantos filme que perdi a conta. Alguns deles me marcaram como por exemplo O Sol é para Todos,
+ A Vida Secreta de Walter Mitty, Hereditário e fácil uma dezena de outros;
+ - 🎵 Adoro Música, gosto de pensar que os momentos da vida tem trilha sonora. Não consigo me ver em um mundo sem música;
+ - 🔭 Ciência faz parte de mim, meu sonho era ser um cientista e resolver problemas usando logica em conhecimentos aplicados,
+ provavelmente por isso me apaixonei pelo mundo da tecnologia.
+ - 😸 Tenho uma gata (lady gypsy) que parece ter saido do Studio Ghibli (estúdio de cinema de animação japonês), e dois cachorros, um com a personalidade do burro do shrek (Bruce) 🐶, e outro (Pit chichito) com com a personalidade mais autentica que já vi.
+ - 🧑‍💻 Me tornei Full Stack, e escolhi o Back-end, por que? Não me entendam mal o Front-end tem uma parte do meu coração, mas o back-end me lembra o garoto que queria ser um cientista.
+   
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPrado007&layout=compact)](https://github.com/matheusPrado007/github-readme-stats)
