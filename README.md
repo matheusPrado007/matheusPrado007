@@ -16,7 +16,7 @@
  - Atualmente estou focado em aprender mais a respeito de back-end. No início da minha trajetória em back, compreendi sobre o NodeJS e seu famoso framework, o Express. Na parte de arquitetura tenho noção dos princípios MSC e SOLID,
   e sei que como desenvolvedor tenho que estar em um eterno aprimoramento. Esse desafio me estimula demais.
  
-   
+Email -> matheuspradodeveloper@gmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPrado007&layout=compact)](https://github.com/matheusPrado007/github-readme-stats)
@@ -50,7 +50,7 @@
 <a href = "https://www.linkedin.com/in/matheus--prado/">
 <img alt = "linkedin" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
- <a href="mailto:matheuspradodeveloper@gmail.com">
+  <a href="mailto:matheuspradodeveloper@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
 
