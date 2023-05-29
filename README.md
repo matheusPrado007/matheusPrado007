@@ -18,8 +18,18 @@
  
 Email -> matheuspradodeveloper@gmail.com
 
+![](https://visitor-badge.laobi.icu/badge?page_id=matheusPrado007.matheusPrado007)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPrado007&layout=compact)](https://github.com/matheusPrado007/github-readme-stats)
+<div>
+  <a href="https://github.com/matheusPrado007/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPrado007" />
+  </a>
+  <a href="https://github.com/matheusPrado007/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=matheusPrado007&show_icons=true&theme=tokyonight" />
+  </a>
+</div>
+
+<br clear="both" />
 
 ## Tecnologias e Ferramentas
 
