@@ -15,6 +15,7 @@
  - 🧑‍💻 Me tornei Full Stack, e escolhi o Back-end. Por quê? Não me entendam mal o Front-end tem uma parte do meu coração, mas o back-end me lembra o garoto que queria ser um cientista
  - Atualmente estou focado em aprender mais a respeito de back-end. No início da minha trajetória em back, compreendi sobre o NodeJS e seu famoso framework, o Express. Na parte de arquitetura tenho noção dos princípios MSC e SOLID,
   e sei que como desenvolvedor tenho que estar em um eterno aprimoramento. Esse desafio me estimula demais.
+  
  
 Email -> matheuspradodeveloper@gmail.com
 
