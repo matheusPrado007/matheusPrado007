@@ -2,8 +2,12 @@
 # Bom dia, boa tarde e boa noite ![image](https://github.com/matheusPrado007/matheusPrado007/assets/108843111/447ffd08-715e-4518-b906-eecc97d0c05f)
 
  <p>
- Sou o <strong>Matheus Prado</strong>, Desenvolvolvedor Back-end.<br/>
+ Olá, meu nome é <strong>Matheus Prado</strong>, e tenho 29 anos.<br/>
  </p>
+ 
+ ## FORMAÇÃO
+
+Desenvolvimento de Software Web Full Stack pela Trybe.
  
  ## Algumas curiosidades sobre mim
  - 🎥 Sou apaixonado por cinema e já assisti tantos filme que perdi a conta. Alguns deles me marcaram como por exemplo "O Sol é para Todos",
@@ -34,10 +38,10 @@ Email -> matheuspradodeveloper@gmail.com
 
 ## Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 ----
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
