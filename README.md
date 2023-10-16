@@ -2,23 +2,14 @@
 # Bom dia, boa tarde e boa noite ![image](https://github.com/matheusPrado007/matheusPrado007/assets/108843111/447ffd08-715e-4518-b906-eecc97d0c05f)
 
  <p>
- Olá, meu nome é <strong>Matheus Prado</strong>, e tenho 29 anos.<br/>
+ Olá, meu nome é <strong>Matheus Prado</strong>, e tenho 30 anos.<br/>
  </p>
  
  ## FORMAÇÃO
 
 Desenvolvimento de Software Web Full Stack pela Trybe.
- 
- ## Algumas curiosidades sobre mim
- - 🎥 Sou apaixonado por cinema e já assisti tantos filme que perdi a conta. Alguns deles me marcaram como por exemplo "O Sol é para Todos",
- "A Vida Secreta de Walter Mitty", "Hereditário" e fácil uma dezena de outros;
- - 🎵 Adoro Música, gosto de pensar que os momentos da vida tem trilha sonora. Não consigo me ver em um mundo sem música;
- - 🔭 Ciência faz parte de mim, meu sonho era ser um cientista e resolver problemas usando logica em conhecimentos aplicados,
- provavelmente por isso me apaixonei pelo mundo da tecnologia.
- - 😸 Tenho uma gata (lady gypsy) que parece ter saido do Studio Ghibli (estúdio de cinema de animação japonês), e dois cachorros, um com a personalidade do burro do shrek (Bruce) 🐶, e outro (Pit chichito) com com a personalidade mais autentica que já vi.
- - 🧑‍💻 Me tornei Full Stack, e escolhi o Back-end. Por quê? Não me entendam mal o Front-end tem uma parte do meu coração, mas o back-end me lembra o garoto que queria ser um cientista
- - Atualmente estou focado em aprender mais a respeito de back-end. No início da minha trajetória em back, compreendi sobre o NodeJS e seu famoso framework, o Express. Na parte de arquitetura tenho noção dos princípios MSC e SOLID,
-  e sei que como desenvolvedor tenho que estar em um eterno aprimoramento. Esse desafio me estimula demais.
+ - Completei minha formação como Full Stack, adquirindo um conhecimento sólido tanto em desenvolvimento front-end quanto em back-end. Ao longo da minha jornada, concluí mais de 30 projetos abrangendo todos os aspectos do desenvolvimento web.
+ - Atualmente, estou direcionando meus esforços para aprofundar meu conhecimento em desenvolvimento back-end. Durante minha formação, adquiri compreensão sobre o Node.js e seu renomado framework, o Express, além de ter uma sólida base em princípios de arquitetura, como MSC e SOLID. Estou expandindo ainda mais meu horizonte ao me dedicar à formação em Java. Tenho plena consciência de que, como desenvolvedor, a busca constante pelo aprimoramento é essencial. Este desafio me inspira e motiva, e a formação em Java promete ampliar ainda mais minhas perspectivas.
   
  
 Email -> matheuspradodeveloper@gmail.com
@@ -38,7 +29,7 @@ Email -> matheuspradodeveloper@gmail.com
 
 ## Tecnologias e Ferramentas
 ## Linguagens
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=javat&logoColor=%23F7DF1E)
 
 ----
 ## Frameworks & Bibliotecas
