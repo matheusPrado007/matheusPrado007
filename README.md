@@ -6,8 +6,8 @@
  </p>
  
  ## FORMAÇÃO
-
-Desenvolvimento de Software Web Full Stack pela Trybe.
+- Análise e Desenvolvimento de Sistemas pela Estácio.
+- Desenvolvimento de Software Web Full Stack pela Trybe.
  - Completei minha formação como Full Stack, adquirindo um conhecimento sólido tanto em desenvolvimento front-end quanto em back-end. Ao longo da minha jornada, concluí mais de 30 projetos abrangendo todos os aspectos do desenvolvimento web.
  - Atualmente, estou direcionando meus esforços para aprofundar meu conhecimento em desenvolvimento back-end. Durante minha formação, adquiri compreensão sobre o Node.js e seu renomado framework, o Express, além de ter uma sólida base em princípios de arquitetura, como MSC e SOLID. Estou expandindo ainda mais meu horizonte ao me dedicar à formação em Java. Tenho plena consciência de que, como desenvolvedor, a busca constante pelo aprimoramento é essencial. Este desafio me inspira e motiva, e a formação em Java promete ampliar ainda mais minhas perspectivas.
   
